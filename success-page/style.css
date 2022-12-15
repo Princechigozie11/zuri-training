@@ -68,6 +68,10 @@ button {
   margin: 3rem auto;
   text-align: center;
 }
+a {
+  text-decoration: none;
+  color: rgba(49, 157, 255, 1);
+}
 .btn1 .btn-1 {
   background-color: rgba(49, 157, 255, 1);
   color: rgb(255, 255, 255);
