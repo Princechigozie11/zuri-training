@@ -23,7 +23,7 @@ body {
   background: #092c4c;
 }
 .bg-img {
-  background-image: url("/payment/img/image\ 2.png");
+  background-image: url("../payment/img/image\ 2.png");
   width: 95%;
   height: 317.82px;
   background-blend-mode: darken;

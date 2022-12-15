@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-  background-image: url(/payment/img/image\ 2.png);
+  background-image: url(../payment/img/image\ 2.png);
   background-position: center;
   background-size: cover;
   width: 100%;

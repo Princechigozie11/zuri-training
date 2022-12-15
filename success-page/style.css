@@ -8,7 +8,7 @@
   margin: 20px;
   padding: 30px;
   background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
-    url(/payment/img/image\ 2.png) center / cover no-repeat;
+    url(../payment/img/image\ 2.png) center / cover no-repeat;
 }
 .logo {
   width: 142px;
